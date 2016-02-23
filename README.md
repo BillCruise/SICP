@@ -10,8 +10,8 @@ Scheme solutions to exercises in [Structure and Interpretation of Computer Progr
 - 1.1.3 Evaluating Combinations
 - 1.1.4 Compound Procedures
 - 1.1.5 The Substitution Model for Procedure Application
-- 1.1.6 Conditional Expressions and Predicates
-- 1.1.7 Example: Square Roots by Newton's Method
+- 1.1.6 [Conditional Expressions and Predicates](ch_1/s1_1_6)
+- 1.1.7 [Example: Square Roots by Newton's Method](ch_1/s1_1_7)
 - 1.1.8 Procedures as Black-Box Abstractions
 
 ### 1.2 Procedures and the Processes They Generate
