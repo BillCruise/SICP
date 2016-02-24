@@ -15,12 +15,12 @@ Scheme solutions to exercises in [Structure and Interpretation of Computer Progr
 - 1.1.8 Procedures as Black-Box Abstractions
 
 ### 1.2 Procedures and the Processes They Generate
-- 1.2.1 Linear Recursion and Iteration
-- 1.2.2 Tree Recursion
-- 1.2.3 Orders of Growth
-- 1.2.4 Exponentiation
+- 1.2.1 [Linear Recursion and Iteration](ch_1/s1_2_1)
+- 1.2.2 [Tree Recursion](ch_1/s1_2_2)
+- 1.2.3 [Orders of Growth](ch_1/s1_2_3)
+- 1.2.4 [Exponentiation](ch_1/s1_2_4)
 - 1.2.5 Greatest Common Divisors
-- 1.2.6 Example: Testing for Primality
+- 1.2.6 [Example: Testing for Primality](ch_1/s1_2_6)
 
 ### 1.3 Formulating Abstractions with Higher-Order Procedures
 - 1.3.1 Procedures as Arguments
