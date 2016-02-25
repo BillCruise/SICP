@@ -23,10 +23,10 @@ Scheme solutions to exercises in [Structure and Interpretation of Computer Progr
 - 1.2.6 [Example: Testing for Primality](ch_1/s1_2_6)
 
 ### 1.3 Formulating Abstractions with Higher-Order Procedures
-- 1.3.1 Procedures as Arguments
-- 1.3.2 Constructing Procedures Using Lambda
-- 1.3.3 Procedures as General Methods
-- 1.3.4 Procedures as Returned Values
+- 1.3.1 [Procedures as Arguments](ch_1/s1_3_1)
+- 1.3.2 [Constructing Procedures Using Lambda](ch_1/s1_3_2)
+- 1.3.3 [Procedures as General Methods](ch_1/s1_3_3)
+- 1.3.4 [Procedures as Returned Values](ch_1/s1_3_4)
 
 ## Chapter 2: Building Abstractions with Data
 
