@@ -31,10 +31,10 @@ Scheme solutions to exercises in [Structure and Interpretation of Computer Progr
 ## Chapter 2: Building Abstractions with Data
 
 ### 2.1 Introduction to Data Abstraction
-- 2.1.1 Example: Arithmetic Operations for Rational Numbers
-- 2.1.2 Abstraction Barriers
-- 2.1.3 What Is Meant by Data?
-- 2.1.4 Extended Exercise: Interval Arithmetic
+- 2.1.1 [Example: Arithmetic Operations for Rational Numbers](ch_2/s2_1_1)
+- 2.1.2 [Abstraction Barriers](ch_2/s2_1_2)
+- 2.1.3 [What Is Meant by Data?](ch_2/s2_1_3)
+- 2.1.4 [Extended Exercise: Interval Arithmetic](ch_2/s2_1_4)
 
 ### 2.2 Hierarchical Data and the Closure Property
 - 2.2.1 Representing Sequences
