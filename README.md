@@ -37,15 +37,15 @@ Scheme solutions to exercises in [Structure and Interpretation of Computer Progr
 - 2.1.4 [Extended Exercise: Interval Arithmetic](ch_2/s2_1_4)
 
 ### 2.2 Hierarchical Data and the Closure Property
-- 2.2.1 Representing Sequences
-- 2.2.2 Hierarchical Structures
-- 2.2.3 Sequences as Conventional Interfaces
-- 2.2.4 Example: A Picture Language
+- 2.2.1 [Representing Sequences](ch_2/s2_2_1)
+- 2.2.2 [Hierarchical Structures](ch_2/s2_2_2)
+- 2.2.3 [Sequences as Conventional Interfaces](ch_2/s2_2_3)
+- 2.2.4 [Example: A Picture Language](ch_2/s2_2_4)
 
 ### 2.3 Symbolic Data
-- 2.3.1 Quotation
-- 2.3.2 Example: Symbolic Differentiation
-- 2.3.3 Example: Representing Sets
+- 2.3.1 [Quotation](ch_2/s2_3_1)
+- 2.3.2 [Example: Symbolic Differentiation](ch_2/s2_3_2)
+- 2.3.3 [Example: Representing Sets](ch_2/s2_3_3)
 - 2.3.4 Example: Huffman Encoding Trees
 
 ### 2.4 Multiple Representations for Abstract Data
