@@ -2,6 +2,8 @@
 
 Scheme solutions to exercises in [Structure and Interpretation of Computer Programs](https://mitpress.mit.edu/sicp/full-text/book/book.html).
 
+You can find long-form explanations to many of these solutions on my blog at [The SICP Challenge](http://www.billthelizard.com/2009/10/sicp-challenge.html).
+
 ## Chapter 1: Building Abstractions with Procedures
 
 ### 1.1 The Elements of Programming
